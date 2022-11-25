@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "790184617547",
+    "firebase_url": "https://training-b663f.firebaseio.com",
+    "project_id": "training-b663f",
+    "storage_bucket": "training-b663f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790184617547:android:b23e5a45a4b2a627010fce",
+        "android_client_info": {
+          "package_name": "com.ofppt.myfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790184617547-2vpk0npgo6r9pffhdi5mlh70pjdua42j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ofppt.myfirebase",
+            "certificate_hash": "d4c96567bd59898185aa4596ba4b8cb9c590817a"
+          }
+        },
+        {
+          "client_id": "790184617547-jtu0pak1np8h2glj6h0te3r3nkqqabql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxKT_JOtqO4BPQM1b44v9kSUe7ntV654"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790184617547-jtu0pak1np8h2glj6h0te3r3nkqqabql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790184617547:android:0ff7ddc1b81d2e70010fce",
+        "android_client_info": {
+          "package_name": "com.ofppt.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790184617547-mhklv12sjvf9vbp5lshj3d9d425mqeit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ofppt.myproject",
+            "certificate_hash": "d4c96567bd59898185aa4596ba4b8cb9c590817a"
+          }
+        },
+        {
+          "client_id": "790184617547-jtu0pak1np8h2glj6h0te3r3nkqqabql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxKT_JOtqO4BPQM1b44v9kSUe7ntV654"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790184617547-jtu0pak1np8h2glj6h0te3r3nkqqabql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790184617547:android:e0cd3211442903e3",
+        "android_client_info": {
+          "package_name": "sms.surtymar.com.sms1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790184617547-jtu0pak1np8h2glj6h0te3r3nkqqabql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxKT_JOtqO4BPQM1b44v9kSUe7ntV654"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790184617547-jtu0pak1np8h2glj6h0te3r3nkqqabql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
